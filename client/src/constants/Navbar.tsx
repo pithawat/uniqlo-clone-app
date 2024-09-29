@@ -1,0 +1,1 @@
+export const categoryAge = ["woman", "men", "kids", "baby"]
